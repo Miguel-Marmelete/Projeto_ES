@@ -1,0 +1,59 @@
+Recolha de informação:
+- Entrevista (cliente)
+- Questionário (utilizador)
+- User stories (utilizador) 
+- Procura na internet
+
+
+
+Requisitos:
+Recompensar o utilizador;
+Disponibilizar e criar percursos;
+Localização em caso de acidente (maior segurança, - privacidade);
+Mostrar dados (KM, percurso, calorias etc...).
+Criar objetivos.
+
+
+
+nota:
+A aplicação pode mostrar o percurso dos amigos, tempos,KM, vento
+calorias,
+Objetivos (semanais, diarios etc)
+Indicar quantos dinheiro o utilizador nao gastou em combustivel e
+emissoes.
+
+Valor da emissão: 1 litro/100km = 26,5 g/km
+Valor energético em 1L de Diesel: 35,86 MJ
+
+
+Monitorização da utilização das bicicletas: a plataforma deve permitir o registo e monitorização das bicicletas disponíveis para uso,
+ incluindo a localização e o estado de cada bicicleta. Além disso, a plataforma deve permitir o registo da utilização de cada bicicleta
+ pelos utilizadores, incluindo a hora de início e fim da utilização, a distância percorrida, entre outros dados relevantes.
+
+Eficiência energética: a plataforma deve permitir a medição da eficiência energética das bicicletas elétricas utilizadas no projeto.
+ Para isso, é necessário que a plataforma registe o consumo de energia de cada bicicleta e permita a análise dos dados para identificar
+ possíveis melhorias na eficiência energética das bicicletas.
+
+Hábitos de vida saudável: a plataforma deve permitir a introdução de hábitos de vida saudável pelos utilizadores das bicicletas,
+ como a realização de desafios e competições que incentivem a utilização das bicicletas como meio de transporte saudável.
+
+Registo de utilizadores: a plataforma deve permitir o registo dos utilizadores, incluindo informações como nome, endereço, email,
+ entre outras. Além disso, a plataforma deve permitir a autenticação dos utilizadores e o registo da utilização das bicicletas por
+ cada utilizador.
+
+Gestão de pagamentos: a plataforma deve permitir o pagamento pelo uso das bicicletas, incluindo a definição dos preços e formas
+ de pagamento aceites.
+
+Relatórios e análises: a plataforma deve permitir a geração de relatórios e análises sobre a utilização das bicicletas, incluindo
+ a identificação dos utilizadores mais ativos, a utilização das bicicletas por período de tempo, entre outros dados relevantes.
+
+Segurança: a plataforma deve ser desenvolvida com medidas de segurança adequadas para garantir a privacidade dos utilizadores e a
+ proteção dos dados armazenados na plataforma.
+
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+User Stories
+
+Eu como empresa privado pretende fornecer aos meus empregados conta ubike para que eles se dirigam ao trabalho de bicicleta.
+
+Ciritérios de aceitação:
+1. A aplicação deve permitir convidar pessoas por mail ou telemovel
+2. Após enviado o convite, devemos aguardar que o convidado aceite o convite.
+3. Caso o telemovel ou email selecionado seja inválido a aplicação deve dar indicação desse erro.
+4. Caso o convidado recuse o convite, quem convida deve ser informado.
+
+
+--------------------------------------------------------------------------------------
+Eu como ciclista, pretende que a aplicação guarde o histórico dos percursos realizados e dos tempos para puder analisar se estou a melhororar os meus tempos.
+
+Critérios de aceitação:
+1. No inicio é selecionado um percurso.
+2. Quando se chega à meta do percurso, o utilizador deve ser notificado e o histórico guardado.
+3. Caso exista algum erro durante o percurso, o utilizador deve ser notificado imediatamente.
+
+
+--------------------------------------------------------------------------------------
+Eu, como personal trainer pretendo guardar os históricos de percurso dos meus clientes para poder analisar  a sua evolução.
+
+Critérios de aceitação:
+1. O utilizador PT deve ter acesso ao histórico de outros utilizadores.
+2. O utilizador PT pode analisar a média e a evolução do outro utilizador.
+3. Caso o outro utilizador não tenha dado permissão de acesso, o utilizador PT não consegue ver o histórico.
+
+--------------------------------------------------------------------------------------
+Eu, como pai, pretendo ter acesso à localização da bicicleta do meu filho para saber onde ele se encontra
+
+Critérios de aceitação:
+1. O utilizador tem acesso à informação da conta do filho.
+2. O filho tem que dar permissão ao pai para aceder a esses dados.
+3. Caso não tenha sido dado acesso, o pai não consegue ver os dados da conta do filho.
+
+--------------------------------------------------------------------------------------
+Eu, como câmara municipal, pretendo fornecer bicicletas com o serviço ubike, para promover um estilo de vida ecológico mais eficiente.
+
+Critérios de aceitação:
+1. As bicletas devem ter um chip gps para poder localizar a bicicleta
+2. Caso o chip perca contato com a aplicação o utilizador é informado da última localização.
+
+
+---------------------------------------------------------------------------------------
+Eu como adolescente pretendo utilizar a bicicleta
+para lazer e ir para a escola, preciso de um percurso mais seguro,
+preferencialmente sem carros ou com baixo transito. 
+
+
+Critérios de aceitação:
+1)Deve ser possivel escolher um tipo de percurso seguro.
+2)Saber o transito nas estradas disponiveis
+3) Como o utilizador é adolescente, deve ser possivel saber
+a localização e em caso de acidente notificar os utilizadores
+mais próximos e/ou os pais.
+
+----------------------------------------------------------------------------------------
+Eu como adulto pretendo utilizar a bicicleta
+para trabalhar, preciso de um percurso com menos transito e o mais
+curto possivel. 
+
+
+Critérios de aceitação:
+1)Disponibilzar o percurso mais seguro,mais rápido e menos exigente.
+
+----------------------------------------------------------------------------------------
+
+Eu como idoso pretendo utilizar a bicicleta
+para pequenas deslocações e lazer, preciso de um percurso 
+SEM carros.
+
+Critérios de aceitação:
+1) Acesso á localizaçao
+2) Disponibilizar apenas percursos fáceis, sem carros e com mais pessoas
+3) Alertar caso a distância percorrida seja muito elevada, ou em horas
+de calor, por exemplo.
+
+----------------------------------------------------------------------------------------
+
+Eu como ciclista profissional pretendo utilizar a bicicleta
+para treinar em percursos mais dificeis, preciso de um
+mecanismo de segurança devido á intensidade do treino.
+
+Critérios de aceitação:
+1) A aplicação deve mostrar os percursos de outros ciclistas
+2) Disponibilizar pecursos de treino avançado
+
+----------------------------------------------------------------------------------------
+
+Eu como cidadão pretendo saber a localização e as estatisticas
+dos meus familiares para ter uma competição saudável.
+
+Critérios de aceitação:
+1) A aplicação deve dar para criar grupos e mostrar as estatisticas de
+cada membro
+2) A aplicação deve ter objetivos conjuntos.
+
+----------------------------------------------------------------------------------------
+
+Eu como cidadão quero que a aplicação mostre os dados
+sobre a minha atividade.
+
+Critérios de aceitação:
+A aplicação deve mostrar não so as estatisticas, mas também
+dados como calorias gastas.
+
+----------------------------------------------------------------------------------------
+
+
+Eu como cidadão, pretendo poupar combustivel, pretendo saber
+quanto estou a poupar em combustivel e em emissões.
+Critérios de aceitação:
+A aplicação deve mostrar quanto CO2 não foi emitido e o combustivel 
+poupado.
+
+-------
+-------
+
+

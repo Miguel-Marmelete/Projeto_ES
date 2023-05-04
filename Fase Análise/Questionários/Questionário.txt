@@ -1,0 +1,54 @@
+Questionário:
+
+Idade?
+R:
+
+Genero?
+R:
+
+Com que frequência faz atividade fisica?
+R:
+
+Tem Bicicleta?
+R:
+
+Está á vontade com a partilha da localização ?
+R:
+
+Sendo os dados disponibilizados os seguintes:
+- Calorias;
+- KM feitos;
+- Percursos;
+- Tempos;
+- Vento;
+- Emissões poupadas;
+- Combustuivel poupado;
+Acha que os dados são suficientes ? Ou são demais ?
+Algum dado que ache que devia estar presente ?
+R:
+
+Gostaria de ter eventos disponiveis como meetings ?
+R:
+
+Qual o seu objetivo ao andar de bicicleta (lazer, deslocação, etc)?
+R:
+
+Já usou aplicativos para bicicletas antes ?
+R:
+
+Como a aplicação pode melhorar a experiência no ciclismo ?
+R:
+
+Se a aplicação disponibilizar objetivos de acordo com a sua
+idade, genero e condição fisica irá tentar cumprir os objetivos ?
+OS objetivos são um incentivo para o uso da bicicleta ?
+R:
+
+
+
+
+A análise da informação e documentação coletada foi uma etapa fundamental para a identificação dos diferentes tipos de requisitos necessários para o desenvolvimento da aplicação para bicicletas. Nessa fase, foram levantados os requisitos funcionais e não funcionais, que foram analisados e documentados de forma detalhada para garantir que a aplicação atenda às expectativas dos usuários e do mercado.
+
+Os requisitos funcionais descrevem as funcionalidades e características específicas que a aplicação deve possuir, como a possibilidade de traçar rotas, monitorar o desempenho do usuário, receber notificações, entre outros. Já os requisitos não funcionais se referem às características técnicas e de desempenho da aplicação, como a capacidade de processamento, a segurança, a usabilidade e a escalabilidade.
+
+A análise desses requisitos permitiu ao grupo identificar as prioridades e restrições do projeto, bem como a definir os critérios de aceitação para as diferentes funcionalidades da aplicação. Ao longo do processo, foram realizadas revisões e atualizações constantes da documentação para garantir que os requisitos estivessem alinhados com as necessidades dos usuários e do mercado, bem como com as capacidades técnicas do grupo de desenvolvimento.

@@ -1,0 +1,66 @@
+Documento de Requisitos
+
+Introdução
+O Projeto U-bike Portugal tem como objetivo a promoção da mobilidade suave
+ e prevê a realização de ações concretas de incentivo à adoção de hábitos
+ de mobilidade mais sustentáveis nas comunidades académicas do ensino superior.
+ Com enfoque na bicicleta, em particular na elétrica, o Projeto incide sobre
+ camadas jovens da população, os alunos do ensino superior, e alarga-se à comunidade
+ académica em geral.
+Este documento de requisitos tem como objetivo definir as funcionalidades e
+ requisitos do sistema de informação para monitorização da utilização das 
+ bicicletas do Projeto U-bike Portugal.
+
+Requisitos Funcionais
+
+2.1. Registo de Utilizadores
+O sistema deve permitir o registo de utilizadores, incluindo informações como nome,
+ endereço, email, entre outras. O sistema deve permitir a autenticação dos utilizadores
+ e o registo da utilização das bicicletas por cada utilizador.
+2.2. Monitorização da Utilização das Bicicletas
+O sistema deve permitir a monitorização da utilização das bicicletas, incluindo a 
+localização, distância percorrida, combustível poupado, calorias queimadas, velocidade
+ média e velocidade máxima.
+
+2.3. Recompensas aos Utilizadores
+O sistema deve atribuir moedas digitais aos utilizadores, de acordo com o exercício
+ físico feito, para poderem comprar produtos na aplicação a um preço mais baixo.
+
+2.4. Objetivos de Exercício
+O sistema deve permitir a definição de objetivos de exercício para incentivar o uso
+ das bicicletas pelos utilizadores.
+
+2.5. Medição da Eficiência Energética
+O sistema deve permitir a medição da eficiência energética das bicicletas elétricas
+ utilizadas no projeto. Para isso, é necessário que o sistema registe o consumo de 
+ energia de cada bicicleta e permita a análise dos dados para identificar possíveis 
+ melhorias na eficiência energética das bicicletas.
+
+2.6. Gestão de Pagamentos
+O sistema deve permitir o pagamento pelo uso das bicicletas, incluindo a definição 
+dos preços e formas de pagamento aceites.
+
+2.7. Vento
+O sistema deve considerar a velocidade do vento e sua direção no cálculo da distância
+ percorrida e no esforço necessário para pedalar.
+
+2.8. Percursos com Diferentes Dificuldades
+O sistema deve mostrar percursos com diferentes níveis de dificuldade e permitir que
+ os utilizadores criem os seus próprios percursos.
+
+2.9. Meetings
+O sistema deve permitir a realização de reuniões virtuais entre os utilizadores do 
+projeto U-bike Portugal.
+
+Requisitos Não-Funcionais
+
+3.1. Segurança
+O sistema deve ser seguro e garantir a confidencialidade, integridade e disponibilidade dos dados dos utilizadores.
+3.2. Escalabilidade
+O sistema deve ser capaz de suportar um grande número de utilizadores e de bicicletas.
+
+3.3. Usabilidade
+O sistema deve ser fácil de usar e intuitivo para os utilizadores.
+
+3.4. Performance
+O sistema deve ser rápido e responsivo para permitir uma experiência de utilização

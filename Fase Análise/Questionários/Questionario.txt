@@ -1,0 +1,45 @@
+Questionário:
+
+Idade?
+R: 21
+
+Genero?
+R: M
+
+Com que frequência faz atividade fisica?
+R: Raramente.
+
+Tem Bicicleta?
+R: Sim.
+
+Está á vontade com a partilha da localização ?
+R: Sim?
+
+Sendo os dados disponibilizados os seguintes:
+- Calorias;
+- KM feitos;
+- Percursos;
+- Tempos;
+- Vento;
+- Emissões poupadas;
+- Combustuivel poupado;
+Acha que os dados são suficientes ? Ou são demais ?
+Algum dado que ache que devia estar presente ?
+R: Parecem ser suficientes. 
+
+Gostaria de ter eventos disponiveis como meetings ?
+R: É interessante.
+
+Qual o seu objetivo ao andar de bicicleta (lazer, deslocação, etc)?
+R: Maioria das vezes é lazer.
+
+Já usou aplicativos para bicicletas antes ?
+R: Não.
+
+Como a aplicação pode melhorar a experiência no ciclismo ?
+R: Ao dizer os km feitos e as calorias perdidas, acho que incentiva a pessoa a andar de bicicleta.
+
+Se a aplicação disponibilizar objetivos de acordo com a sua
+idade, genero e condição fisica irá tentar cumprir os objetivos ?
+OS objetivos são um incentivo para o uso da bicicleta ?
+R: Sim. Sim.

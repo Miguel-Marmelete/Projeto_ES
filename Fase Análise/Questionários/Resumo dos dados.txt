@@ -1,0 +1,17 @@
+Maior parte indivíduos questionados não tem bicileta.
+Requisito: Fornecer bicileta.
+
+Todos os questionados concordaram que os objetivos eram um
+bom incentivo para a prática de atividade fisica. Os meetings 
+também foram bem aceites.
+Requisitos: Implementar objetivos, meetings.
+
+Segundo os individuos a aplicação deve mostrar caminhos com
+várias dificuldades, dando prioridade a ciclovias. Deve tambem 
+ter uma opção de treino e atividades coletivas.
+Requesitos:meetings, percursos e função de treino de acordo com
+a condiçao fisica.
+
+
+Requesito:
+A localização so deve ser partilhada durante a atividade

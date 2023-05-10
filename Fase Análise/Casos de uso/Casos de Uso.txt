@@ -1,0 +1,75 @@
+Casos de uso:
+
+Nome: Criar Conta
+Actores: Utilizador
+Descrição: Para utilizar a aplicação, o utilizador deve criar uam conta.
+Pré condições: Dispositivo móvel compativel, acesso á internet
+Pós condições: O utilizador conseguirá autenticar-se na aplicação
+Fluxo de eventos:
+	1) Utilizador -> Acede á playstore/applestore
+	2) Utilizador -> Download da aplicação
+	3) Utilizador -> Cria conta
+	4) Sistema 	  -> Cria a conta e notifica o utilizador que a conta foi criada com sucesso
+
+
+Nome: Auntenticação
+Actores: Utilizador
+Descrição: O utilizador deve fazer login para utilizar a aplicação.
+Pré condições: Ter conta na aplicação.
+Pós condições: O utilizador conseguirá utilizar a aplicação.
+Fluxo de eventos:
+	1) Utilizador -> Abre a aplicação
+	2) Utilizador -> Introduz as credênciais
+	3) Utilizador -> Login é completado e o utilizador usufrui da aplciação
+	
+
+
+Nome: Requisitar bicileta
+Actores: Utilizador, empresa
+Descrição: Caso o utilizador não tenha uam bicileta, a empresa poderá fornecer uma.
+Pré condições: Estar autenticado na aplicação, não possuir bicicleta.
+Pós condições: A empresa fornece a bicicleta ao utilizador e o mesm pagará uma mensalidade.
+Fluxo de eventos:
+	1) Utilizador -> Abre a aplicação
+	1) Utilizador -> Pede a requisição de uma bicicleta.
+	2) Empresa    -> Pede dados como morada e método de pagamento.
+	3) Utilizador -> Envia os dados pedidos pela empresa.
+	4) Empresa    -> Envia a bicileta.
+
+
+
+Nome: Pagar aluguer da bicicleta
+Actores: Utilizador, Banco
+Descrição: O utilizador deve pagar mensalmente o aluguer da bicicleta.
+Pré condições: Requisitar bicileta.
+Pós condições: O utilizador poderá continuar a utilizar a bicicleta
+Fluxo de eventos:
+	1) Banco 	  -> Envia a fatura
+	1) Utilizador -> faz o pagamento.
+	2) Sistema    -> Altera a data do proximo pagamento.
+	
+
+
+Nome: Monitorização de dados
+Actores: Utilizador
+Descrição: A aplicação monitoriza os dados da atividade do utilizador.
+Pré condições: Ter bicicleta; Dispositivo móvel com bateria; Internet (dados móveis) e GPS.
+Pós condições: A aplicação mostra os dados da atividade fisica
+Fluxo de eventos:
+	1) Utilizador -> Liga os dados móveis e o gps
+	2) Utilizador -> Abre a aplicação.
+	3) Utilizador -> Seleciona o percurso.
+	4) Utilizador -> Faz o percurso.
+	5) sistema 	  -> Mostra os dados da atividade.
+	
+	
+
+Nome: Criar Objetivos
+Actores: Utilizador
+Descrição: O utilizador pode criar objetivos para ir evoluindo.
+Pré condições: Autenticação na aplicação.
+Pós condições: Um ou mais objetivos de atividade criados
+Fluxo de eventos:
+	1) Utilizador -> Abre a aplicação.
+	2) Utilizador -> Cria objetivo.
+	
